@@ -83,7 +83,6 @@ React • TypeScript • Electron • Vite • Node.js • SQLite • better-sql
 - Structured oil mill record management
 - Responsive and user-friendly interface
 
-**Repository:** [MillOps](https://github.com/pujapurkar/MillOps)
 
 ### 🤖 AI-Powered Mental Well-being Support Agent
 
