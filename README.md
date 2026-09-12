@@ -68,6 +68,22 @@ React.js • TypeScript • Vite • Node.js • Express.js • PostgreSQL (Supa
 - Contact form and email notifications
 - Automated deployment through GitHub
 
+### 🏭 Oil Mill Record Management System
+
+A desktop-based record management application designed for managing oil mill records efficiently, with local data storage and report generation capabilities.
+
+**Tech Stack:**  
+React • TypeScript • Electron • Vite • Node.js • SQLite • better-sqlite3 • jsPDF • jsPDF AutoTable • XLSX
+
+**Key Features:**
+- Desktop application built with Electron
+- Local SQLite database for record management
+- PDF report generation
+- Spreadsheet/data export support
+- Structured oil mill record management
+- Responsive and user-friendly interface
+
+**Repository:** [MillOps](https://github.com/pujapurkar/MillOps)
 
 ### 🤖 AI-Powered Mental Well-being Support Agent
 
